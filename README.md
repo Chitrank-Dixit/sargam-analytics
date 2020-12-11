@@ -60,3 +60,6 @@ EOF
 # apply deployment and services to k8s cluster
 
 `kubectl apply -f deployment`
+
+# deploy using helm charts
+`helm install saranalytics chart`

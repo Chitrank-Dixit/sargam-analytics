@@ -1,7 +1,7 @@
 apiVersion: v2
 name: chart
 description: A Helm chart for Kubernetes
-
+fullname: analytics_application
 # A chart can be either an 'application' or a 'library' chart.
 #
 # Application charts are a collection of templates that can be packaged into versioned archives
