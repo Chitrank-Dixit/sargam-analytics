@@ -1,0 +1,108 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="JSHint" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="94">
+            <item index="0" class="java.lang.String" itemvalue="html5lib" />
+            <item index="1" class="java.lang.String" itemvalue="jaraco.modb" />
+            <item index="2" class="java.lang.String" itemvalue="yg.passwords" />
+            <item index="3" class="java.lang.String" itemvalue="fab" />
+            <item index="4" class="java.lang.String" itemvalue="cachecontrol" />
+            <item index="5" class="java.lang.String" itemvalue="deprecated" />
+            <item index="6" class="java.lang.String" itemvalue="formencode" />
+            <item index="7" class="java.lang.String" itemvalue="jsonpickle" />
+            <item index="8" class="java.lang.String" itemvalue="py" />
+            <item index="9" class="java.lang.String" itemvalue="pysimplesoap" />
+            <item index="10" class="java.lang.String" itemvalue="gryphon.counters" />
+            <item index="11" class="java.lang.String" itemvalue="cherrypy" />
+            <item index="12" class="java.lang.String" itemvalue="routes" />
+            <item index="13" class="java.lang.String" itemvalue="gryphon-ip-hasher" />
+            <item index="14" class="java.lang.String" itemvalue="simpleparse" />
+            <item index="15" class="java.lang.String" itemvalue="certifi" />
+            <item index="16" class="java.lang.String" itemvalue="docutils" />
+            <item index="17" class="java.lang.String" itemvalue="lxml" />
+            <item index="18" class="java.lang.String" itemvalue="portend" />
+            <item index="19" class="java.lang.String" itemvalue="pycountry" />
+            <item index="20" class="java.lang.String" itemvalue="pan" />
+            <item index="21" class="java.lang.String" itemvalue="pyparsing" />
+            <item index="22" class="java.lang.String" itemvalue="backports.html" />
+            <item index="23" class="java.lang.String" itemvalue="munch" />
+            <item index="24" class="java.lang.String" itemvalue="datalib" />
+            <item index="25" class="java.lang.String" itemvalue="beautifulsoup4" />
+            <item index="26" class="java.lang.String" itemvalue="gryphon.uniques" />
+            <item index="27" class="java.lang.String" itemvalue="dateutils" />
+            <item index="28" class="java.lang.String" itemvalue="extradict" />
+            <item index="29" class="java.lang.String" itemvalue="wrapt" />
+            <item index="30" class="java.lang.String" itemvalue="cryptography" />
+            <item index="31" class="java.lang.String" itemvalue="zope.interface" />
+            <item index="32" class="java.lang.String" itemvalue="jaraco.compat" />
+            <item index="33" class="java.lang.String" itemvalue="tortilla" />
+            <item index="34" class="java.lang.String" itemvalue="yg.treatments" />
+            <item index="35" class="java.lang.String" itemvalue="bcrypt" />
+            <item index="36" class="java.lang.String" itemvalue="mechanize" />
+            <item index="37" class="java.lang.String" itemvalue="psutil" />
+            <item index="38" class="java.lang.String" itemvalue="pyyaml" />
+            <item index="39" class="java.lang.String" itemvalue="boto3" />
+            <item index="40" class="java.lang.String" itemvalue="virtualenv" />
+            <item index="41" class="java.lang.String" itemvalue="typing" />
+            <item index="42" class="java.lang.String" itemvalue="cherrypy-baton-tools" />
+            <item index="43" class="java.lang.String" itemvalue="limpy" />
+            <item index="44" class="java.lang.String" itemvalue="yg.launch" />
+            <item index="45" class="java.lang.String" itemvalue="ua-parser" />
+            <item index="46" class="java.lang.String" itemvalue="gryphon.postprocs" />
+            <item index="47" class="java.lang.String" itemvalue="qcsv" />
+            <item index="48" class="java.lang.String" itemvalue="formats" />
+            <item index="49" class="java.lang.String" itemvalue="cheroot" />
+            <item index="50" class="java.lang.String" itemvalue="pluggy" />
+            <item index="51" class="java.lang.String" itemvalue="yg.structures" />
+            <item index="52" class="java.lang.String" itemvalue="httplib2" />
+            <item index="53" class="java.lang.String" itemvalue="requests" />
+            <item index="54" class="java.lang.String" itemvalue="bidict" />
+            <item index="55" class="java.lang.String" itemvalue="importlib-metadata" />
+            <item index="56" class="java.lang.String" itemvalue="newrelic" />
+            <item index="57" class="java.lang.String" itemvalue="gryphon.cases" />
+            <item index="58" class="java.lang.String" itemvalue="zipp" />
+            <item index="59" class="java.lang.String" itemvalue="netaddr" />
+            <item index="60" class="java.lang.String" itemvalue="panoptic-jobs-client" />
+            <item index="61" class="java.lang.String" itemvalue="urllib3" />
+            <item index="62" class="java.lang.String" itemvalue="itsdangerous" />
+            <item index="63" class="java.lang.String" itemvalue="tox" />
+            <item index="64" class="java.lang.String" itemvalue="genshi" />
+            <item index="65" class="java.lang.String" itemvalue="pydns" />
+            <item index="66" class="java.lang.String" itemvalue="httpretty" />
+            <item index="67" class="java.lang.String" itemvalue="tornado" />
+            <item index="68" class="java.lang.String" itemvalue="botocore" />
+            <item index="69" class="java.lang.String" itemvalue="yg.logging" />
+            <item index="70" class="java.lang.String" itemvalue="future-fstrings" />
+            <item index="71" class="java.lang.String" itemvalue="setuptools-scm" />
+            <item index="72" class="java.lang.String" itemvalue="packaging" />
+            <item index="73" class="java.lang.String" itemvalue="futures" />
+            <item index="74" class="java.lang.String" itemvalue="jaraco.services" />
+            <item index="75" class="java.lang.String" itemvalue="pathlib2" />
+            <item index="76" class="java.lang.String" itemvalue="toml" />
+            <item index="77" class="java.lang.String" itemvalue="argparse" />
+            <item index="78" class="java.lang.String" itemvalue="jmespath" />
+            <item index="79" class="java.lang.String" itemvalue="tqdm" />
+            <item index="80" class="java.lang.String" itemvalue="facebook-sdk" />
+            <item index="81" class="java.lang.String" itemvalue="s3transfer" />
+            <item index="82" class="java.lang.String" itemvalue="tox-venv" />
+            <item index="83" class="java.lang.String" itemvalue="colorama" />
+            <item index="84" class="java.lang.String" itemvalue="yg.mongodb" />
+            <item index="85" class="java.lang.String" itemvalue="babel" />
+            <item index="86" class="java.lang.String" itemvalue="cachetools" />
+            <item index="87" class="java.lang.String" itemvalue="pillow" />
+            <item index="88" class="java.lang.String" itemvalue="yg.elk" />
+            <item index="89" class="java.lang.String" itemvalue="ply" />
+            <item index="90" class="java.lang.String" itemvalue="pyjwt" />
+            <item index="91" class="java.lang.String" itemvalue="tokenize-rt" />
+            <item index="92" class="java.lang.String" itemvalue="webencodings" />
+            <item index="93" class="java.lang.String" itemvalue="queso" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
